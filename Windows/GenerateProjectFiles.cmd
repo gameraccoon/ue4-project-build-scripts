@@ -1,0 +1,1 @@
+@Helpers\RunScript.cmd Commands\GenerateProjectFiles_inner.cmd
